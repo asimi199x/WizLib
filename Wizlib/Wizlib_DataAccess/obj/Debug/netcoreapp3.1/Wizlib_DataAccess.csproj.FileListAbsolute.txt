@@ -1,0 +1,15 @@
+C:\Users\Asimi\source\repos\Wizlib\Wizlib_DataAccess\bin\Debug\netcoreapp3.1\Wizlib_DataAccess.deps.json
+C:\Users\Asimi\source\repos\Wizlib\Wizlib_DataAccess\bin\Debug\netcoreapp3.1\Wizlib_DataAccess.dll
+C:\Users\Asimi\source\repos\Wizlib\Wizlib_DataAccess\bin\Debug\netcoreapp3.1\Wizlib_DataAccess.pdb
+C:\Users\Asimi\source\repos\Wizlib\Wizlib_DataAccess\bin\Debug\netcoreapp3.1\Wizlib_Model.dll
+C:\Users\Asimi\source\repos\Wizlib\Wizlib_DataAccess\bin\Debug\netcoreapp3.1\Wizlib_Model.pdb
+C:\Users\Asimi\source\repos\Wizlib\Wizlib_DataAccess\obj\Debug\netcoreapp3.1\Wizlib_DataAccess.csprojAssemblyReference.cache
+C:\Users\Asimi\source\repos\Wizlib\Wizlib_DataAccess\obj\Debug\netcoreapp3.1\Wizlib_DataAccess.AssemblyInfoInputs.cache
+C:\Users\Asimi\source\repos\Wizlib\Wizlib_DataAccess\obj\Debug\netcoreapp3.1\Wizlib_DataAccess.AssemblyInfo.cs
+C:\Users\Asimi\source\repos\Wizlib\Wizlib_DataAccess\obj\Debug\netcoreapp3.1\Wizlib_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Asimi\source\repos\Wizlib\Wizlib_DataAccess\obj\Debug\netcoreapp3.1\Wizlib_DataAccess.csproj.CopyComplete
+C:\Users\Asimi\source\repos\Wizlib\Wizlib_DataAccess\obj\Debug\netcoreapp3.1\Wizlib_DataAccess.dll
+C:\Users\Asimi\source\repos\Wizlib\Wizlib_DataAccess\obj\Debug\netcoreapp3.1\Wizlib_DataAccess.pdb
+C:\Users\Asimi\source\repos\Wizlib\Wizlib_DataAccess\bin\Debug\netcoreapp3.1\Wizlib_DataAccess.runtimeconfig.json
+C:\Users\Asimi\source\repos\Wizlib\Wizlib_DataAccess\bin\Debug\netcoreapp3.1\Wizlib_DataAccess.runtimeconfig.dev.json
+C:\Users\Asimi\source\repos\Wizlib\Wizlib_DataAccess\obj\Debug\netcoreapp3.1\Wizlib_DataAccess.genruntimeconfig.cache

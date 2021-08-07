@@ -1,0 +1,16 @@
+﻿
+@model Wizlib_Model.Models.Category
+    <form method="post">
+        @*<input type="hidden" asp-for="@Model.Category_Id"/>
+        <input type="hidden" asp-for="@Model.Name" />*@
+        <h2>Are you sure ? You will lose data</h2>
+        <button type="submit" asp-action="Delete" asp-route-isOK="true" asp-route-model="@Model.Category_Id">YES</button>
+        <button type="submit" asp-action="Delete" asp-route-isOK="false"asp-route-model="">NO</button>
+    </form>
+        
+
+
+
+   
+
+

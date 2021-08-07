@@ -1,0 +1,57 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20210728134147_AddGenreToDb.cs" />
+    <Compile Remove="Migrations\20210728134147_AddGenreToDb.Designer.cs" />
+    <Compile Remove="Migrations\20210728134358_AddGenreToDb.cs" />
+    <Compile Remove="Migrations\20210728134358_AddGenreToDb.Designer.cs" />
+    <Compile Remove="Migrations\20210729134848_changePrimKeyForCategoryTable.cs" />
+    <Compile Remove="Migrations\20210729134848_changePrimKeyForCategoryTable.Designer.cs" />
+    <Compile Remove="Migrations\20210729135708_addRelationBookandCategory.cs" />
+    <Compile Remove="Migrations\20210729135708_addRelationBookandCategory.Designer.cs" />
+    <Compile Remove="Migrations\20210729135959_addRelationBookandCategory.cs" />
+    <Compile Remove="Migrations\20210729135959_addRelationBookandCategory.Designer.cs" />
+    <Compile Remove="Migrations\20210729140230_addRelationBookandCategory.cs" />
+    <Compile Remove="Migrations\20210729140230_addRelationBookandCategory.Designer.cs" />
+    <Compile Remove="Migrations\20210729140315_addRelationBookandCategory.cs" />
+    <Compile Remove="Migrations\20210729140315_addRelationBookandCategory.Designer.cs" />
+    <Compile Remove="Migrations\20210729150304_temp.cs" />
+    <Compile Remove="Migrations\20210729150304_temp.Designer.cs" />
+    <Compile Remove="Migrations\20210729154029_temp.cs" />
+    <Compile Remove="Migrations\20210729154029_temp.Designer.cs" />
+    <Compile Remove="Migrations\20210730025104_AddFluentAPIForFluent_BookDetail.cs" />
+    <Compile Remove="Migrations\20210730025104_AddFluentAPIForFluent_BookDetail.Designer.cs" />
+    <Compile Remove="Migrations\20210730025351_AddFluentAPIForFluent_BookDetail.cs" />
+    <Compile Remove="Migrations\20210730025351_AddFluentAPIForFluent_BookDetail.Designer.cs" />
+    <Compile Remove="Migrations\20210730025606_AddFluentAPIForFluent_BookDetail.cs" />
+    <Compile Remove="Migrations\20210730025606_AddFluentAPIForFluent_BookDetail.Designer.cs" />
+    <Compile Remove="Migrations\20210730025748_AddFluentAPIForFluent_BookDetail.cs" />
+    <Compile Remove="Migrations\20210730025748_AddFluentAPIForFluent_BookDetail.Designer.cs" />
+    <Compile Remove="Migrations\20210730032022_AddFluentAPIForFluent_BookDetail.cs" />
+    <Compile Remove="Migrations\20210730032022_AddFluentAPIForFluent_BookDetail.Designer.cs" />
+    <Compile Remove="Migrations\20210730032203_AddFluentAPIForFluent_BookDetail1.cs" />
+    <Compile Remove="Migrations\20210730032203_AddFluentAPIForFluent_BookDetail1.Designer.cs" />
+    <Compile Remove="Migrations\20210730033727_AddFluentAPIForBook.cs" />
+    <Compile Remove="Migrations\20210730033727_AddFluentAPIForBook.Designer.cs" />
+    <Compile Remove="Migrations\20210730035312_AddFluentAPIForAuthor_Book_Publisher.cs" />
+    <Compile Remove="Migrations\20210730035312_AddFluentAPIForAuthor_Book_Publisher.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Wizlib_Model\Wizlib_Model.csproj" />
+  </ItemGroup>
+
+</Project>
